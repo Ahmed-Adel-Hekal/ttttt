@@ -1,0 +1,17 @@
+{
+  "ideas": [
+    {
+      "hook": "The biggest leap in enterprise AI? It's not just automation anymore.",
+      "post_copy": "We're building a future where AI isn't just smart, it's truly autonomous. Daturial is changing the game in **3** core ways: we create intelligent AI workers, AI operating systems, and dynamic multi-agent setups. These systems deliver **2** powerful outcomes for your business: they work independently, making intelligent decisions without constant oversight. The **1** ultimate transformation? Your operations become truly autonomous, ready to execute on tasks and adapt, ushering in the future of enterprise efficiency. See how Daturial can elevate your business.",
+      "image_description": "A bright, modern enterprise command center with a diverse team of professionals in a collaborative huddle around a sleek, large transparent display. The screen displays dynamic, interconnected data visualizations and complex workflow automation, almost like a vibrant, self-organizing neural network. One professional gestures towards a section of the screen, looking impressed, while another sips coffee, relaxed and confident. The scene conveys effortless efficiency and advanced technological control.",
+      "hashtags": [
+        "#EnterpriseAI",
+        "#AutonomousAI",
+        "#AIWorkers",
+        "#FutureOfBusiness",
+        "#Daturial"
+      ],
+      "visual_direction": "The central display's dynamic visualizations feature glowing accents in #ff7e05, drawing the eye to key automated processes and decision points. Overall lighting is bright and optimistic, reflecting a forward-thinking, high-tech environment."
+    }
+  ]
+}

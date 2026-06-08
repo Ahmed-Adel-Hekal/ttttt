@@ -1,0 +1,44 @@
+{
+  "idea_index": 1,
+  "caption": "الذكاء الاصطناعي مش مجرد أداة مساعدة، إحنا في Daturial بنبني أنظمة ذكاء اصطناعي مستقلة لشركتك، بتفكر وتاخد قرارات وتنفذ مهام معقدة لوحدها. زي ما شركات كتير بتتصدر قوائم Forbes لأفضل شركات الـ AI، إحنا هنا عشان نخلي شركتك جزء من المستقبل ده. انضم لينا وشوف إزاي ممكن نحول عملياتك. #Daturial #ذكاء_اصطناعي #مستقبل_الأعمال #شركات_ناشئة #تحول_رقمي #تكنولوجيا_متطورة #أنظمة_مستقلة",
+  "hashtags": [
+    "Daturial",
+    "_"
+  ],
+  "hook": {
+    "text": "تخيل لو شركتك عندها موظف ذكاء اصطناعي بياخد قرارات و بينفذها لوحده؟",
+    "duration_seconds": 3
+  },
+  "cta": {
+    "text": "اكتشف المستقبل",
+    "placement": "end"
+  },
+  "script": [
+    {
+      "scene": 1,
+      "visuals": "يبدأ المشهد على مكتب فوضوي، موظف يبدو عليه الإجهاد وهو يحاول إدارة عدة شاشات في وقت واحد، تظهر حركة سريعة 'motion blur' بين الشاشات وكأن المهام تتهاوى عليه. ثم 'match cut' سريع لمشهد آخر يظهر فيه موظفون يمررون أوراقًا بينهم بتعقيد، مع تأثير 'kinetic typography' لكلمة 'أدوات مساعدة' تظهر وتختفي بسرعة.",
+      "voiceover": "كتير لسه فاكرين إن الذكاء الاصطناعي مجرد أدوات مساعدة. بس إحنا بنغير اللعبة دي خالص.",
+      "duration_seconds": 8,
+      "use_character": true,
+      "character_details": {
+        "eye_color": "بني",
+        "facial_details": "تعبيرات قلق خفيف وإجهاد",
+        "physical_details": "رجل/امرأة في أواخر الثلاثينات، يرتدي ملابس عمل عصرية",
+        "facial_expression": "تعبير قلق ومجهد"
+      },
+      "lighting_conditions": {
+        "camera_angle": "medium shot",
+        "camera_type": "DSLR",
+        "lighting_mode": "soft natural light",
+        "lighting_position": "side-lit",
+        "camera_movement": "dynamic handheld"
+      },
+      "visual_direction": {
+        "color_usage": "درجات أزرق/رمادي باهتة، مع ومضات بيانات سريعة",
+        "transition": "match cut",
+        "pacing": "rapid"
+      }
+    }
+  ],
+  "generated_scenes": []
+}
